@@ -1,0 +1,13 @@
+{
+  "name": "colinmollenhour/magento-cache-benchmark",
+  "type": "magento-module",
+  "description": "Magento extension that enables to do cache benchmarks.",
+  "minimum-stability": "dev",
+  "homepage": "https://meets-ecommerce.de",
+  "authors": [
+    {
+      "name": "meets-ecommerce.de",
+      "email": "support@meets-ecommerce.de"
+    }
+  ]
+}
